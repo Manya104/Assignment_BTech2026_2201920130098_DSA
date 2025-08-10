@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2689-rearranging-fruits) |
 ## Greedy
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -103,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
