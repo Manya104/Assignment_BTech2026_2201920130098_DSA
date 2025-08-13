@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
