@@ -120,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
