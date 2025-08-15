@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
