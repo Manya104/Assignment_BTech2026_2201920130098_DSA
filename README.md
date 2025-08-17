@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -105,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1448-maximum-69-number) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0867-new-21-game) |
 ## Recursion
 |  |
 | ------- |
