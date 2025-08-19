@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Probability and Statistics
 |  |
 | ------- |
