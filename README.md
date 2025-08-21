@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
