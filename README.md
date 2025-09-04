@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3830-find-closest-person) |
 ## Probability and Statistics
 |  |
 | ------- |
