@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
