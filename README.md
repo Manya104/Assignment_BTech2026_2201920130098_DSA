@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2689-rearranging-fruits) |
 | [3797-design-spreadsheet](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
@@ -250,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
