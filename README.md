@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0118-pascals-triangle) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
