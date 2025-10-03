@@ -1,49 +1,77 @@
+const int di[4] = {1, -1, 0, 0};
+const int dj[4] = {0, 0, 1, -1};
 class Solution {
 public:
-    int trapRainWater(vector<vector<int>>& heightMap) {
-        int n = heightMap.size(), m = heightMap[0].size();
+    static unsigned pack(unsigned h, unsigned i, unsigned j) {
+        return (h << 16) | (i << 8) | j;
+    }
 
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<>> pq;
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
+    static array<int, 3> unpack(unsigned info) {
+        array<int, 3> ans;
+        ans[0] = info >> 16, ans[1] = (info >> 8) & 255, ans[2] = info & 255;
+        return ans;
+    }
 
-        for(int i = 0; i < n; ++i) {
-            pq.push({heightMap[i][0], i, 0});
-            pq.push({heightMap[i][m - 1], i, m - 1});
-            
-            vis[i][0] = true;
-            vis[i][m - 1] = true;
+    static int trapRainWater(vector<vector<int>>& height) {
+        const int m = height.size(), n = height[0].size();
+        if (m <= 2 || n <= 2)
+            return 0; // No trapped water possible
+
+        vector<unsigned> boundary(2 * (m + n - 1));
+
+        // Add boundary cells  mark  visited
+        int idx = 0;
+        for (int i = 0; i < m; i++) {
+            boundary[idx++] = pack(height[i][0], i, 0);
+            boundary[idx++] = pack(height[i][n - 1], i, n - 1);
+            height[i][0] = height[i][n - 1] = -1; // visited
         }
 
-        for(int i = 0; i < m; ++i) {
-            pq.push({heightMap[0][i], 0, i});
-            pq.push({heightMap[n - 1][i], n - 1, i});
-
-            vis[0][i] = true;
-            vis[n - 1][i] = true;
+        for (int j = 1; j < n - 1; j++) {
+            boundary[idx++] = pack(height[0][j], 0, j);
+            boundary[idx++]=pack(height[m - 1][j], m - 1, j);
+            height[0][j] = height[m - 1][j] = -1; // visited
         }
 
-        int dirs[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+        // Build a min-heap
+        make_heap(boundary.begin(), boundary.end(), greater<>());
 
-        int ans = 0, max_height = 0;
-        while(!pq.empty()) {
+        int ans = 0, water_level = 0;
 
-            auto[height, r, c] = pq.top();
-            pq.pop();
+        while (!boundary.empty()) {
+            // Extract the smallest element from the heap
+            pop_heap(boundary.begin(), boundary.end(), greater<>());
+            unsigned info = boundary.back();
+            boundary.pop_back();
 
-            max_height = max(max_height, height);
-            ans += max_height - height;
+            auto [h, i, j] = unpack(info);
+            water_level = max(water_level, h);
 
-            for(int i = 0; i < 4; ++i) {
-                int row = dirs[i][0] + r, col = dirs[i][1] + c;
-
-                if(row < 0 || row >= n || col < 0 || col >= m || vis[row][col])
+            // Process adjacent cell
+            for (int k = 0; k < 4; k++) {
+                int i0 = i + di[k], j0 = j + dj[k];
+                if (i0 < 0 || i0 >= m || j0 < 0 || j0 >= n ||
+                    height[i0][j0] == -1)
                     continue;
 
-                vis[row][col] = true;
-                pq.push({heightMap[row][col], row, col});
+                int currH = height[i0][j0];
+                if (currH < water_level)
+                    ans += water_level - currH;
+
+                // Mark the cell as visited and push it to the heap
+                height[i0][j0] = -1;
+                boundary.push_back(pack(currH, i0, j0));
+                push_heap(boundary.begin(), boundary.end(), greater<>());
             }
         }
 
         return ans;
     }
 };
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
