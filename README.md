@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0830-largest-triangle-area) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0036-valid-sudoku) |
+| [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0165-compare-version-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
