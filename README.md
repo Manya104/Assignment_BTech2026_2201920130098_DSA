@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
