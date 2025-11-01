@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3797-design-spreadsheet](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
