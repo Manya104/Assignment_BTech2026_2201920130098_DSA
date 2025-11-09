@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3336-water-bottles-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
