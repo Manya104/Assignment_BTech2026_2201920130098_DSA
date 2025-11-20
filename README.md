@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0679-24-game) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0011-container-with-most-water) |
+| [0759-set-intersection-size-at-least-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
