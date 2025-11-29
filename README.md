@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3830-find-closest-person) |
 ## Probability and Statistics
