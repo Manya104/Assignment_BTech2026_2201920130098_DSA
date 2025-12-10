@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3830-find-closest-person) |
 ## Probability and Statistics
@@ -435,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
