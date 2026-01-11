@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0120-triangle) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
