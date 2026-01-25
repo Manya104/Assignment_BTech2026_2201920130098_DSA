@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
