@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Geometry
 |  |
 | ------- |
@@ -468,4 +469,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
