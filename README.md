@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2689-rearranging-fruits) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2689-rearranging-fruits) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Geometry
