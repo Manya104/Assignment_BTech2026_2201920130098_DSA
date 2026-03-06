@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
