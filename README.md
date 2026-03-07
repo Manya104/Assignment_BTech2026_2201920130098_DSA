@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
