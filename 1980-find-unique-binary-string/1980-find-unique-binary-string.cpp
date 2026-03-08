@@ -1,30 +1,24 @@
 class Solution {
-    bool f(int n, string &ans, unordered_map<string, int>& mp){
-        if(ans.size() == n){
-            if(mp.find(ans) == mp.end()){
-                return true;
-            }
-            return false;
-        }
-        ans.push_back('0');
-        if(f(n, ans, mp)) return true;  
-        ans.pop_back();
-
-        ans.push_back('1');
-        if(f(n, ans, mp)) return true;
-        ans.pop_back();
-        
-        return false;
-    }
 public:
     string findDifferentBinaryString(vector<string>& nums) {
         int n = nums.size();
-        string ans = "";
-        unordered_map<string, int> mp;
-        for(string it:nums){
-            mp[it] = 1;
+        int size = pow(2, n);
+
+        vector<int> nu(size, 0);
+
+        for(string num : nums){
+            int val = stoi(num, nullptr, 2);
+            nu[val]++;
         }
-        f(n, ans, mp);
-        return ans;
+
+        for(int i = 0; i < size; i++){
+            if(nu[i] == 0){
+                string ans = bitset<32>(i).to_string();
+                ans = ans.substr(32 - n);
+                return ans;
+            }
+        }
+
+        return string(n, '0');
     }
 };
