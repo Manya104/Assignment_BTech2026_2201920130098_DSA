@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0830-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0874-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1006-vowel-spellchecker) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0036-valid-sudoku) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0756-pyramid-transition-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0874-walking-robot-simulation](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1006-vowel-spellchecker) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2288-count-operations-to-obtain-zero) |
