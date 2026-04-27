@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0794-swim-in-rising-water) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -465,12 +467,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0794-swim-in-rising-water) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0794-swim-in-rising-water) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Union Find
@@ -501,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
