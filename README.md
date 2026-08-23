@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1927-sum-game) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2689-rearranging-fruits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1927-sum-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2288-count-operations-to-obtain-zero) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1980-find-unique-binary-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
