@@ -1,19 +1,14 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int res = 0;
-        for (auto n: nums) {
-            if (n >= 10 && n <= 99) {
-                res++;
-                continue;
+        int cnt=0;
+        for(int num:nums){
+            string s=to_string(num);
+            if(s.length()%2==0){
+                cnt++;
             }
-            if (n >= 1000 && n <= 9999) {
-                res++;
-                continue;
-            }
-            if (n >= 100000)
-                res++;
         }
-        return res;
+        return cnt;
+        
     }
 };
