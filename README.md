@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0679-24-game) |
