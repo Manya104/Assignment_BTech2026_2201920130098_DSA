@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0189-rotate-array) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0977-squares-of-a-sorted-array) |
