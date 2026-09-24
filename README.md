@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0874-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1006-vowel-spellchecker](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -544,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
