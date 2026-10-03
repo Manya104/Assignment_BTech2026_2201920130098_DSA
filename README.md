@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0396-rotate-function) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0474-ones-and-zeroes) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
