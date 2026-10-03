@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0396-rotate-function) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0977-squares-of-a-sorted-array) |
