@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1306-jump-game-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
