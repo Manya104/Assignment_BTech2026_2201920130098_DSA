@@ -1,14 +1,17 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int cnt=0;
+            int cnt=0;
         for(int num:nums){
-            string s=to_string(num);
-            if(s.length()%2==0){
+            int dig=0;
+            while(num>0){
+                num=num/10;
+                dig++;
+            }
+            if(dig%2==0){
                 cnt++;
             }
         }
         return cnt;
-        
     }
 };
