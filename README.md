@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1306-jump-game-iii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1306-jump-game-iii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0794-swim-in-rising-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0794-swim-in-rising-water) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Breadth-First Search
