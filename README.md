@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1448-maximum-69-number) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting Sort
 |  |
 | ------- |
