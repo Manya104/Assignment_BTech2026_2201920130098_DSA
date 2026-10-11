@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0657-robot-return-to-origin) |
 | [0756-pyramid-transition-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1006-vowel-spellchecker](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
