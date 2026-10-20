@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3886-sum-of-sortable-integers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3886-sum-of-sortable-integers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3830-find-closest-person) |
+| [3886-sum-of-sortable-integers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3886-sum-of-sortable-integers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
