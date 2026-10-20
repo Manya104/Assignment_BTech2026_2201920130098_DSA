@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
+| [0561-array-partition](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0679-24-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0561-array-partition) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0759-set-intersection-size-at-least-two) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
