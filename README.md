@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0874-walking-robot-simulation) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0417-pacific-atlantic-water-flow) |
