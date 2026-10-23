@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0342-power-of-four) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0874-walking-robot-simulation) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
