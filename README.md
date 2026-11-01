@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0067-add-binary) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0342-power-of-four) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0002-add-two-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
 |  |
