@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0498-diagonal-traverse) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0396-rotate-function) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0826-soup-servings) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
