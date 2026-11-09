@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0067-add-binary) |
