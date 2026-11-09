@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0756-pyramid-transition-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3827-implement-router](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3827-implement-router) |
 ## Game Theory
