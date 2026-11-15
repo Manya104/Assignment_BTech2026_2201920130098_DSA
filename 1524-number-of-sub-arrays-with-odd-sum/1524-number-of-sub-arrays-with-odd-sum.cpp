@@ -1,22 +1,15 @@
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr) {
-        int n = arr.size(); // Size of the array
-        int even = 1, odd = 0; // Initialize counts of even and odd prefix sums
-        int sum = 0, mod = 1e9 + 7; // Running sum and modulo value
-        long long int ans = 0; // Result to store the number of subarrays with odd sum
+        long long odd_prefixes = 0;
+        int current_parity = 0;
 
-        for (int i = 0; i < n; ++i) {
-            sum += arr[i]; // Update the running sum
-            if (sum & 1) { // If the sum is odd
-                ++odd; // Increment the count of odd prefix sums
-                ans = (ans + even) % mod; // Add the number of even prefix sums to the result
-            } else { // If the sum is even
-                ++even; // Increment the count of even prefix sums
-                ans = (ans + odd) % mod; // Add the number of odd prefix sums to the result
-            }
+        for (int x : arr) {
+            current_parity ^= (x & 1);
+            odd_prefixes += current_parity;
         }
 
-        return ans; // Return the final result
+        long long even_prefixes = (arr.size() + 1) - odd_prefixes;
+        return (odd_prefixes * even_prefixes) % 1'000'000'007;
     }
 };
