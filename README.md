@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0036-valid-sudoku) |
+| [0141-linked-list-cycle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0189-rotate-array) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
@@ -668,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1051-height-checker) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
