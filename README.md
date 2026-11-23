@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1306-jump-game-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1448-maximum-69-number) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2023-design-movie-rental-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2429-design-a-food-rating-system) |
@@ -675,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/0141-linked-list-cycle) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
