@@ -1,43 +1,25 @@
 class ProductOfNumbers {
 public:
+    vector<int> pre = {1};
+
     ProductOfNumbers() {
-        pv = vector<long long>{1};
     }
     
     void add(int num) {
-
-        if(num == 0)
-        {
-            num = 1;
-            zi = pv.size();
-            pv.push_back(1);
+        if (num == 0) {
+            pre = {1};
+        } else {
+            pre.push_back(pre.back() * num);
         }
-        else
-        {
-            if(pv.back() == 0)
-                pv.push_back(num);
-            else
-                pv.push_back(pv.back() * num);
-
-        }        
     }
     
     int getProduct(int k) {
-      //  cout << pv.size() <<  " " << k << " " << zi << endl;
-        int idx = pv.size() - k;
-        if(idx <= zi)
-        {
-           // cout << " RR "<< pv.size() - k << " " << zi << endl;
-
+        int n = pre.size();
+        if (k >= n) {
             return 0;
         }
-        //cout << pv.back() << " " << pv[pv.size() - k - 1] << endl; 
-        return pv.back() / pv[pv.size() - k - 1];
+        return pre[n - 1] / pre[n - k - 1];
     }
-
-    private:
-    vector<long long> pv;
-    int zi = -1;
 };
 
 /**
