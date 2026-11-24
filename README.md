@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3886-sum-of-sortable-integers](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3336-water-bottles-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3462-vowels-game-in-a-string](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manya104/Assignment_BTech2026_2201920130098_DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
